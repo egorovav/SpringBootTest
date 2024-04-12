@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: SpringBootTest
-test:
-  path: /test.csv
-  pass-value: 3

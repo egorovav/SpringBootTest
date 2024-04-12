@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SpringBootTest
+test:
+  en:
+    path: /test_test.csv
+    pass-value: 10
+  ru:
+    path: /test_ru_test.csv
+    pass-value: 11
