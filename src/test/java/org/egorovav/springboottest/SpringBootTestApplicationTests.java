@@ -22,7 +22,7 @@ class SpringBootTestApplicationTests {
 	}
 
 	@Test
-	public void propertyRuTest() {
+	public void propertyTest() {
 
 		Locale locale = LocaleContextHolder.getLocale();
 		if("ru".equals(locale.getLanguage())) {
